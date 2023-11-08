@@ -1,0 +1,16 @@
+{
+  "name": "vibrant",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.0"
+  }
+}
